@@ -1,0 +1,13 @@
+.videoItem{
+  display:flex !important;
+  align-items: center;
+  cursor: pointer;
+  /* justify-content: center; */
+  /* border: 1px solid red; */
+}
+.thumbnail{
+  max-width: 180px;
+}
+.titleContainer{
+  margin-inline-start: 2%;
+}

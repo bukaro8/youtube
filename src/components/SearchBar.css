@@ -1,0 +1,22 @@
+.searchBarContainer{
+  border: 1px solid rgba(128, 128, 128, 0.493);
+  border-radius: 5px;
+  margin:10px;
+  padding:10px;
+  text-align: center;
+
+}
+.inputSearchBar{
+  width: 98%;
+  font-size: 1rem;
+  border:none ;
+  
+
+}
+textarea:focus, input:focus{
+  outline: none;
+}
+.searchBarContainer{
+  margin-block-start: 2%;
+  margin-block-end: 2%;
+}
